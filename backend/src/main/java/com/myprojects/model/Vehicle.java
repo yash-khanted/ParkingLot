@@ -1,4 +1,4 @@
-package com.myprojects.model;
+package com.myprojects.model.entities;
 
 public class Vehicle {
 private int id;
